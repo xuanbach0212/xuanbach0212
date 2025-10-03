@@ -57,16 +57,6 @@ Backend Developer with **2+ years** of experience building **scalable, reliable 
 
 ---
 
-<div align="center">
-
-**Featured:** [ClinkAI](https://clinkai.xyz) (Multi-agent DeFi AI) · [Purro Wallet](https://purro.xyz) (Web3 Wallet)
-
-🥇 Gold Award - Near Foundation Web3 Hackfest · 📜 Meta Backend Developer Certificate
-
----
-
 **💡 Open to collaborating on backend, cloud, and Web3 projects!**
-
-<img src="https://komarev.com/ghpvc/?username=xuanbach0212&color=3B82F6&style=flat-square&label=Profile+Views" alt="Profile views" />
 
 </div>
