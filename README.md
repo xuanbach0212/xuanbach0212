@@ -10,48 +10,20 @@
   ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 
 · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·
-```
 
-<table>
-<tr>
-<td width="50%"><pre>
+  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·    警察GITHUB       SIGNAL ████
+  ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄    ENGINEER                ACCESS
+  █  ░░░░░░░░░░░░░░░░░░░░░░  █    ──────────────────────────────
+  █  ░  ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄  ░  █    DAO XUAN BACH
+  █  ░  █  ◉        ◉  █  ░  █    D 0 X - 0 2 1 2
+  █  ░  █      ▴       █  ░  █    ──────────────────────────────
+  █  ░  █    ─────     █  ░  █    バックエンドエンジニア
+  █  ░  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀  ░  █    BACKEND  ENGINEER
+  █  ░░░░░░░▄▄▄▄▄▄▄▄░░░░░░░  █    kỹ sư lập trình
+  █  ░░░░░░░█      █░░░░░░░  █    ──────────────────────────────
+  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀    SEC CODE  0212-X-BACH
+  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·    ▐▐▐  ON-CHAIN AI INFRA
 
-  · · · · · · · · · · · · ·
-  ░░░░░░░░░░░░░░░░░░░░░░░
-  ░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░
-  ░▓                 ▓░
-  ░▓   ●       ●   ▓░
-  ░▓       ▴       ▓░
-  ░▓     ─────     ▓░
-  ░▓               ▓░
-  ░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░
-  ░░ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ ░░
-  ░░ ▓               ▓ ░░
-  ░░░░░░░░░░░░░░░░░░░░░░░
-  · · · · · · · · · · · · ·
-
-</pre></td>
-<td width="50%"><pre>
-
-  警察GITHUB        SIGNAL ████
-  ENGINEER                 ACCESS
-  ──────────────────────────────
-  DAO XUAN BACH
-  D 0 X - 0 2 1 2
-  ──────────────────────────────
-  バックエンドエンジニア
-  BACKEND  ENGINEER
-  kỹ sư lập trình
-  ──────────────────────────────
-  SEC CODE   0 2 1 2 - X - B A C H
-  ▐▐▐  ON-CHAIN  AI  INFRA
-  ████████  [ REDACTED ]
-
-</pre></td>
-</tr>
-</table>
-
-```
 · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·
 
   AUTHORIZATION GRANTED TO THE ABOVE ENGINEER TO BUILD, SHIP,
@@ -60,55 +32,29 @@
   OPERATIONAL PARAMETERS.
 
 · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·
-```
 
-<table>
-<tr>
-<td width="50%"><pre>
+  ── STACK ─────────────────────  ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+  lang   go · typescript · python  █  ╔════════════════════╗  █
+  run    gin · nestjs · fastapi    █  ║  >_  ONLINE        ║  █
+  db     postgresql · redis        █  ║────────────────────║  █
+  queue  rabbitmq                  █  ║  $ whoami          ║  █
+  ops    docker · aws · linux      █  ║    bach_0212       ║  █
+  ───────────────────────────────  █  ║                    ║  █
+  ── OPS ──────────────────────────  ║  $ ./status        ║  █
+  [>>]  defi ai infrastructure     █  ║   [OPERATIONAL]    ║  █
+  [>>]  web3 signal platforms      █  ║                    ║  █
+  [>>]  distributed systems        █  ║  $ _               ║  █
+  [??]  ████████ [ CLASSIFIED ]    █  ╚════════════════════╝  █
+                                   ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 
-  ── STACK ──────────────────────
-  lang     go · typescript · python
-  run      gin · nestjs · fastapi
-  db       postgresql · redis · mongo
-  queue    rabbitmq
-  ops      docker · aws · linux
-  ────────────────────────────────
-  ── OPS ────────────────────────
-  [>>]  defi ai infrastructure
-  [>>]  web3 signal platforms
-  [>>]  distributed systems
-  [??]  ████████ [ CLASSIFIED ]
-  ────────────────────────────────
-  ── REACH ──────────────────────
-  >>  xuanbachdao.netlify.app
-  >>  xuanbachdao0212@gmail.com
-  >>  /in/xuanbachdao0212
-  >>  @tyler_the_coder
+· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·
 
-</pre></td>
-<td width="50%"><pre>
+  ── REACH ──────────────────────────────────────────────────────
+  portfolio  >>  xuanbachdao.netlify.app
+  email      >>  xuanbachdao0212@gmail.com
+  linkedin   >>  /in/xuanbachdao0212
+  twitter    >>  @tyler_the_coder
 
-  · · · · · · · · · · · · ·
-  ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-  █  ╔═════════════════╗  █
-  █  ║ >_  ONLINE      ║  █
-  █  ║─────────────────║  █
-  █  ║ $ whoami        ║  █
-  █  ║   bach_0212     ║  █
-  █  ║                 ║  █
-  █  ║ $ ./status      ║  █
-  █  ║  [OPERATIONAL]  ║  █
-  █  ║                 ║  █
-  █  ║ $ _             ║  █
-  █  ╚═════════════════╝  █
-  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-  · · · · · · · · · · · · ·
-
-</pre></td>
-</tr>
-</table>
-
-```
 · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·
 
   ⡷⡾  PROPERTY OF THE INTERNET / BACKEND ENGINEERING UNIT  ⡷⡾
