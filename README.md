@@ -1,6 +1,6 @@
 Dao Xuan Bach
 
-Backend engineer. Go, TypeScript, Python.
-Building on-chain AI infrastructure and web3 signal platforms.
+Backend developer specialising in scalable distributed systems and microservices.
+Go, TypeScript, Python.
 
 xuanbachdao0212@gmail.com
